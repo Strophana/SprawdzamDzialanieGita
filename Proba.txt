@@ -1,7 +1,9 @@
-To jest próba.
+To jest próba. Kolejna próba.
 Pierwsza próba.
 No nie pierwsza, ale się nie rozdrabniam.
 Tutaj sprawdzam jak działają branche.
 Uhuhuhuhuh.
 Dodaję jeszcze linijkę.
 Każde dodanie to commit
+
+NowyBranch1
