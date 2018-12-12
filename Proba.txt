@@ -1,5 +1,5 @@
 To jest próba. Kolejna próba.
-Pierwsza próba.
+Pierwsza probka.
 No nie pierwsza, ale się nie rozdrabniam.
 Tutaj sprawdzam jak działają branche.
 Uhuhuhuhuh.
@@ -7,3 +7,4 @@ Dodaję jeszcze linijkę.
 Każde dodanie to commit
 
 NowyBranch1
+Zmieniam z innego konta, zmieniam, zmieniam
